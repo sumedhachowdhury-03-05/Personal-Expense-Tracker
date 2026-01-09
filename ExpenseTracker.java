@@ -6,6 +6,7 @@ import java.util.Scanner;
  * Author: Sumedha Chowdhury
  * Description: A menu-driven Java console application to track daily expenses
  */
+
 class Expense 
 {
     private int expenseId;
