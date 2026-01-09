@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
+
 /*
  * Personal Expense Tracker
  * Author: Sumedha Chowdhury
