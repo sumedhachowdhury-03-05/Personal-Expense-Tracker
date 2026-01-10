@@ -13,6 +13,7 @@ A menu-driven Java console application to track daily expenses efficiently using
 - Simple and clean console interface
 
 ## Technologies
+
 - Java
 - OOP Concepts
 - ArrayList
