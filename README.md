@@ -6,6 +6,7 @@ A menu-driven Java console application for tracking personal expenses. Allows us
 A menu-driven Java console application to track daily expenses efficiently using Object-Oriented Programming and Java Collections.
 
 ## Features
+
 - Add and manage expenses
 - Search by category
 - Calculate total spending
