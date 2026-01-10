@@ -18,6 +18,7 @@ A menu-driven Java console application to track daily expenses efficiently using
 - ArrayList
 
 ## How to Run
+
 javac PersonalExpenseTracker.java  
 java PersonalExpenseTracker
 
